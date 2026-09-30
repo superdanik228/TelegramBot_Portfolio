@@ -1,0 +1,1 @@
+"""OLX monitor bot package."""

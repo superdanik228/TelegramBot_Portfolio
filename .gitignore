@@ -1,0 +1,13 @@
+.env
+credentials.json
+__pycache__/
+*.pyc
+.venv/
+venv/
+bookings_demo.csv
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+.DS_Store
+/tmp/
