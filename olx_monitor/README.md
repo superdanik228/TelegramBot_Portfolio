@@ -8,6 +8,14 @@
 [![SQLite](https://img.shields.io/badge/SQLite-aiosqlite-lightgrey)](https://sqlite.org)
 [![License](https://img.shields.io/badge/license-MIT-yellow)](LICENSE)
 
+## 🎬 Demo
+
+https://github.com/user-attachments/assets/demo-placeholder
+
+<video src="olx_monitor/assets/demo.mp4" width="360" controls></video>
+
+![Demo preview](olx_monitor/assets/demo_preview.png)
+
 ## ✨ What it does
 
 You send the bot an OLX search URL (e.g. cars in Warsaw, iPhone 13 in Kraków) — it checks that page **every 5 minutes** in the background and sends you only the ads it hasn't seen before:
